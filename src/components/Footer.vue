@@ -10,8 +10,6 @@
   </footer>
 </template>
 
-<script setup></script>
-
 <style lang="scss" scoped>
 .footer {
   border-top: 1px solid var(--mainColor);

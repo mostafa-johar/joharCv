@@ -101,7 +101,7 @@ const getImg = (name) => {
     gap: 10px;
     li {
       display: flex;
-      justify-content: start;
+      justify-content: flex-start;
       align-items: center;
       gap: 5px;
       span {
